@@ -1,7 +1,6 @@
 # Exercice 5 :
 _Auteur: DAGUEBAA Josué_
-### Énoncé : Est-ce que la classe `Dessin` définie précédemment peut contenir des rectangle inclinés ? 
-Est-ce que les méthodes surface, contains et hull de la classe Dessin fonctionnent encore correctement ?
+### Énoncé : Est-ce que la classe `Dessin` définie précédemment peut contenir des rectangle inclinés ? Est-ce que les méthodes `surface()`, `contains()` et `hull()` de la classe Dessin fonctionnent encore correctement ?
 
 # Correction Exercice 5 
 Oui, la classe Dessin définie précédemment peut contenir des rectangle inclinés car `SlantedRectangle` est une classe fille de `Rectangle`.
