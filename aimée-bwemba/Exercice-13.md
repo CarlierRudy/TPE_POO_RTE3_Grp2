@@ -1,5 +1,5 @@
 # Exercice 13:
-Auteure: Aimée BWEMBA
+_Auteure: Aimée BWEMBA_
 On considère les classes suivantes: 
 
 
