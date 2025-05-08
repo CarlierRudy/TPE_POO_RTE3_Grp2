@@ -15,7 +15,6 @@ char getCh() { return ch; }
 
 ```
 
-
 Question : Qu’affiche le code Java suivant ?
 
 
