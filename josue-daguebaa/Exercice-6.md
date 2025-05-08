@@ -1,6 +1,6 @@
 # Exercice 6 : (Suite)
 _Auteur: DAGUEBAA Josué_
-### Énoncé : Définir une méthode String `toString()` dans la classe `Rectangle`. 
+#### Énoncé : Définir une méthode String `toString()` dans la classe `Rectangle`. 
 Est-ce en fait une définition ou une redéfinition ? 
 Est-il nécessaire de la redéfinir dans la classe SlantedRectangle ? 
 
